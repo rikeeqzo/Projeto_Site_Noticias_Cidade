@@ -124,7 +124,9 @@ body.fotos #navegacao a#fotos
 }
 
 /*Caixa*/
-
+.caixa {
+    background: #f3f3f3 url(../imagens/fundo-caixa.png);
+}
 
 
 /*Rodape*/
