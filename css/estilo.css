@@ -136,6 +136,12 @@ h2 {
     padding: 5px;
 }
 
+.caixa-conteudo {
+    background: #fff;
+    padding: 5px;
+    margin-top: 5px;
+}
+
 /*Rodape*/
 #container-rodape {
     background: #294c71;
