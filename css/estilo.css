@@ -100,18 +100,20 @@ body.fotos #navegacao a#fotos
     background: blue;
 }
 
-#duas-colunas #primario {
-    width: 555px;
+#primario {
+    width: 270px;
     float: left;
     margin: 0 0 20px 195px;
     background: blue;
 }
 
-#uma-colunas #primario {
+#duas-colunas #primario {
+    width: 555px;
+}
+
+#uma-coluna #primario {
     width: 750px;
-    float: left;
-    margin: 0 0 20px 195px;
-    background: blue;
+    margin: 0 0 20px 0;
 }
 
 #secundario {
