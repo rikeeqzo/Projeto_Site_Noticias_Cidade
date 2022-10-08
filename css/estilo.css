@@ -90,7 +90,6 @@ body.fotos #navegacao a#fotos
     width: 180px;
     float: left;
     margin: 0 0 20px -750px;
-    background: yellow;
 }
 
 #tres-colunas #primario {
@@ -126,9 +125,16 @@ body.fotos #navegacao a#fotos
 /*Caixa*/
 .caixa {
     margin: 10px 0;
+    padding: 5px;
     background: #f3f3f3 url(../imagens/fundo-caixa.png);
 }
 
+h2 {
+    font-size: 1em;
+    background: #294c71;
+    color: #fff;
+    padding: 5px;
+}
 
 /*Rodape*/
 #container-rodape {
