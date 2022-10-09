@@ -160,6 +160,11 @@ h2 {
     border-bottom: 1px solid #f3f3f3;
 }
 
+#lateral ul a:hover {
+    background: #f9f9f9 url(../imagens/marcador.png) no-repeat left center;
+    color: #a1a1a1;
+}
+
 #rodape {
     width: 750px;
     margin: 0 auto;
