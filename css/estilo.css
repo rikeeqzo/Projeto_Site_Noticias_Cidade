@@ -162,6 +162,7 @@ h2 {
 
 #lateral ul a:hover {
     background: #f9f9f9 url(../imagens/marcador.png) no-repeat left center;
+    padding-left: 20px;
     color: #a1a1a1;
 }
 
