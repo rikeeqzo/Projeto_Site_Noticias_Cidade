@@ -13,7 +13,6 @@ body {
 #container {
     width: 750px;
     margin: 0 auto;
-    /*border: 1px solid red;*/
 }
 
 #topo {
@@ -29,7 +28,6 @@ body {
     background: url(../imagens/logo.png) no-repeat center;
     text-indent: -3000px;
 }
-
 
 /* Barra de Navegação */
 
@@ -92,13 +90,6 @@ body.fotos #navegacao a#fotos
     margin: 0 0 20px -750px;
 }
 
-#tres-colunas #primario {
-    width: 270px;
-    float: left;
-    margin: 0 0 20px 195px;
-    background: blue;
-}
-
 #primario {
     width: 270px;
     float: left;
@@ -142,12 +133,6 @@ h2 {
     margin-top: 5px;
 }
 
-/*Rodape*/
-#container-rodape {
-    background: #294c71;
-    padding: 20px;
-}
-
 /* Formatar menus laterais*/
 
 #lateral ul a {
@@ -164,6 +149,32 @@ h2 {
     background: #f9f9f9 url(../imagens/marcador.png) no-repeat left center;
     padding-left: 20px;
     color: #a1a1a1;
+}
+
+/* Formatando formulários */
+label {
+    display: block;
+    cursor: pointer;
+}
+
+input {
+    padding: 5px;
+    width: 125px;
+    font-size: 0.9em;
+    background-color: #fff;
+}
+
+input.submit {
+    width: 80px;
+    color: #fff;
+    background-color: #b10333;
+    border: 2px solid #870529;
+}
+
+/*Rodape*/
+#container-rodape {
+    background: #294c71;
+    padding: 20px;
 }
 
 #rodape {
