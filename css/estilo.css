@@ -31,6 +31,17 @@ body {
 
 /* Barra de Navegação */
 
+a:link, a:visited {
+    color: #b10333;
+    padding: 2px;
+    text-decoration: none;
+}
+
+
+a:link .black, a:visited .black {
+    color: #000;
+}
+
 ul {
     margin: 0;
     padding: 0;
