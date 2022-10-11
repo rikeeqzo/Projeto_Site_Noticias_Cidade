@@ -207,19 +207,16 @@ h3 {
     margin: 5px;
 }
 
-#lista-noticias li a h3 {
+#lista-noticias li a {
     text-decoration: none;
-    font-size: 0.8em;
 }
 
 #lista-noticias li a h3 {
-    text-decoration: none;
     font-size: 0.8em;
 }
 
 #lista-noticias li a p {
-    text-decoration: none;
-    font-size: 0.8em;
+    font-size: 0.6em;
 }
 
 /*Rodape*/
