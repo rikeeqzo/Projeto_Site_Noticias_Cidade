@@ -199,7 +199,7 @@ h3 {
 #lista-noticias li {
     padding: 2px;
     border-bottom: 1px solid #ccc;
-    height: 65px;
+    height: 62px;
 }
 
 #lista-noticias li a img {
@@ -219,6 +219,11 @@ h3 {
 
 #lista-noticias li a p {
     font-size: 0.7em;
+}
+
+#lista-noticias li:hover {
+    background: #eee;
+    cursor: pointer;
 }
 
 /*Rodape*/
