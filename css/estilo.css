@@ -229,6 +229,7 @@ h3 {
 
 #lista-noticias li a p {
     font-size: 0.7em;
+    color: #000;
 }
 
 #lista-noticias li:hover {
