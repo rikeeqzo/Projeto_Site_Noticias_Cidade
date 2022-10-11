@@ -213,10 +213,12 @@ h3 {
 
 #lista-noticias li a h3 {
     font-size: 0.8em;
+    padding: 0;
+    color: #3e7ab9;
 }
 
 #lista-noticias li a p {
-    font-size: 0.6em;
+    font-size: 0.7em;
 }
 
 /*Rodape*/
